@@ -1,0 +1,22 @@
+@import url("../components/btn.css");
+
+.ici {
+  background-color: hsl(60, 44%, 53%);
+  min-height: 50vh;
+  display: grid;
+  place-items: center;
+  text-transform: uppercase;
+  font-size: 5rem;
+}
+
+.swiper-1{
+  background-color: hsl(247, 87%, 6%);
+  border-block-end: 1px solid var(--white);
+}
+
+.services-slider img {
+  height: 10rem;
+  margin-block-start: 50px;
+}
+
+

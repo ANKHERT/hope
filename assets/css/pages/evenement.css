@@ -1,0 +1,12 @@
+@import url("../components/btn.css");
+
+.iciss {
+  background-color: rgb(53, 21, 53);
+  min-height: 50vh;
+  display: grid;
+  place-items: center;
+   text-align: center;
+   font-size: 5rem;
+   text-transform: uppercase;
+   color: #fff;
+}

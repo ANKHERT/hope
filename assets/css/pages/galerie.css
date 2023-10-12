@@ -1,0 +1,46 @@
+@import url("../components/btn.css");
+
+.homes{
+  background: url(assets/images/home-bg.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  text-align: center;
+  
+  background-color: hsl(247, 87%, 6%);
+}
+
+.homes .content{
+  padding-top: 5rem;
+  max-width:70rem;
+  margin:0 auto;
+  color: #111;
+}
+
+.homes .content h3{
+  font-size: 6.5rem;
+  color:#fff;
+}
+
+.homes .content p{
+  font-size: 1.7rem;
+  color:#eee;
+  padding:1rem 0;
+}
+
+.homes .swiper-container {
+  width: 100%;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.homes .swiper-slide {
+  width: 35rem;
+  height: 50rem;
+}
+
+.homes .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
